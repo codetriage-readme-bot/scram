@@ -1,0 +1,9 @@
+<map id="substitution.cc" name="substitution.cc">
+<area shape="rect" id="node2" href="$substitution_8h.xhtml" title="The MEF Substitution constructs. " alt="" coords="318,80,427,107"/>
+<area shape="rect" id="node20" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="1395,80,1459,107"/>
+<area shape="rect" id="node26" href="$algorithm_8h.xhtml" title="Helpful algorithm facilities as an extension to the STL or Boost. " alt="" coords="1988,80,2107,107"/>
+<area shape="rect" id="node7" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="512,229,599,256"/>
+<area shape="rect" id="node14" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="439,155,509,181"/>
+<area shape="rect" id="node17" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="877,229,980,256"/>
+<area shape="rect" id="node25" href="$source__info_8h.xhtml" title="Helper facilities to get source file information. " alt="" coords="1879,155,2010,181"/>
+</map>

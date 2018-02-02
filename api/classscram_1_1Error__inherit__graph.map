@@ -1,0 +1,18 @@
+<map id="scram::Error" name="scram::Error">
+<area shape="rect" id="node4" href="$structscram_1_1DLError.xhtml" title="Dynamic library errors. " alt="" coords="5,300,124,377"/>
+<area shape="rect" id="node5" href="$structscram_1_1IllegalOperation.xhtml" title="This error can be used to indicate that call for a function or operation is not legal. " alt="" coords="148,300,317,377"/>
+<area shape="rect" id="node6" href="$structscram_1_1IOError.xhtml" title="For input/output related errors. " alt="" coords="342,300,457,377"/>
+<area shape="rect" id="node7" href="$structscram_1_1LogicError.xhtml" title="Signals internal logic errors, for example, pre&#45;condition failure or use of functionality in ways not..." alt="" coords="481,300,616,377"/>
+<area shape="rect" id="node8" href="$structscram_1_1mef_1_1ValidityError.xhtml" title="For validating input parameters or user arguments. " alt="" coords="641,300,819,377"/>
+<area shape="rect" id="node14" href="$structscram_1_1SettingsError.xhtml" title="The error in analysis settings. " alt="" coords="843,300,998,377"/>
+<area shape="rect" id="node15" href="$structscram_1_1xml_1_1Error.xhtml" title="The base for all XML related errors. " alt="" coords="1416,300,1548,377"/>
+<area shape="rect" id="node9" href="$structscram_1_1mef_1_1CycleError.xhtml" title="Signals unacceptable cycles in invalid structures. " alt="" coords="105,433,273,510"/>
+<area shape="rect" id="node10" href="$structscram_1_1mef_1_1DomainError.xhtml" title="Invalid domain for values or arguments. " alt="" coords="297,433,481,510"/>
+<area shape="rect" id="node11" href="$structscram_1_1mef_1_1DuplicateArgumentError.xhtml" title="This error indicates that arguments must be unique. " alt="" coords="505,425,731,517"/>
+<area shape="rect" id="node12" href="$structscram_1_1mef_1_1RedefinitionError.xhtml" title="For cases when events or practically anything is redefined. " alt="" coords="755,425,931,517"/>
+<area shape="rect" id="node13" href="$structscram_1_1mef_1_1UndefinedElement.xhtml" title="The error for undefined elements in a model. " alt="" coords="955,433,1177,510"/>
+<area shape="rect" id="node16" href="$structscram_1_1xml_1_1ParseError.xhtml" title="XML parsing errors. " alt="" coords="1201,433,1368,510"/>
+<area shape="rect" id="node17" href="$structscram_1_1xml_1_1StreamError.xhtml" title="Errors in using XML streaming facilities. " alt="" coords="1392,433,1572,510"/>
+<area shape="rect" id="node18" href="$structscram_1_1xml_1_1ValidityError.xhtml" title="XML document validity errors. " alt="" coords="1596,433,1773,510"/>
+<area shape="rect" id="node19" href="$structscram_1_1xml_1_1XIncludeError.xhtml" title="XInclude resolution issues. " alt="" coords="1797,433,1983,510"/>
+</map>

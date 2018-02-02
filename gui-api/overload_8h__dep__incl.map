@@ -1,0 +1,8 @@
+<map id="overload.h" name="overload.h">
+<area shape="rect" id="node2" href="$diagram_8cpp.xhtml" title="Implementation of diagram graphics. " alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$elementcontainermodel_8cpp.xhtml" title="elementcontainermodel.cpp" alt="" coords="133,80,335,107"/>
+<area shape="rect" id="node4" href="$eventdialog_8cpp.xhtml" title="eventdialog.cpp" alt="" coords="359,80,482,107"/>
+<area shape="rect" id="node5" href="$mainwindow_8cpp.xhtml" title="mainwindow.cpp" alt="" coords="506,80,631,107"/>
+<area shape="rect" id="node6" href="$modeltree_8cpp.xhtml" title="modeltree.cpp" alt="" coords="655,80,770,107"/>
+<area shape="rect" id="node7" href="$preferencesdialog_8cpp.xhtml" title="preferencesdialog.cpp" alt="" coords="794,80,957,107"/>
+</map>

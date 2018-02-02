@@ -1,0 +1,19 @@
+<map id="mainwindow.cpp" name="mainwindow.cpp">
+<area shape="rect" id="node2" href="$mainwindow_8h.xhtml" title="The main application window. " alt="" coords="4844,87,4954,114"/>
+<area shape="rect" id="node111" href="$diagram_8h.xhtml" title="Graphics classes to draw diagrams. " alt="" coords="402,87,489,114"/>
+<area shape="rect" id="node115" href="$elementcontainermodel_8h.xhtml" title="The table model for elements. " alt="" coords="904,87,1091,114"/>
+<area shape="rect" id="node119" href="$eventdialog_8h.xhtml" title="Dialog to edit and validate events. " alt="" coords="2940,87,3048,114"/>
+<area shape="rect" id="node125" href="$guiassert_8h.xhtml" title="GUI assertions that should not crash the program by default. " alt="" coords="3775,87,3868,114"/>
+<area shape="rect" id="node127" href="$importancetablemodel_8h.xhtml" title="Table model for reporting importance factors. " alt="" coords="2231,87,2410,114"/>
+<area shape="rect" id="node130" href="$modeltree_8h.xhtml" title="The main tree representation of the Model. " alt="" coords="1417,87,1517,114"/>
+<area shape="rect" id="node133" href="$overload_8h.xhtml" title="Facilities to help with pointers to overloaded functions. " alt="" coords="16310,87,16400,114"/>
+<area shape="rect" id="node134" href="$preferencesdialog_8h.xhtml" title="Dialog to manage the application&#39;s persistent preferences. " alt="" coords="4341,87,4489,114"/>
+<area shape="rect" id="node135" href="$printable_8h.xhtml" title="Interface for printable objects. " alt="" coords="6230,87,6320,114"/>
+<area shape="rect" id="node136" href="$producttablemodel_8h.xhtml" title="Table model for reporting products. " alt="" coords="1826,87,1980,114"/>
+<area shape="rect" id="node138" href="$reporttree_8h.xhtml" title="Report tree model to represent the analysis results. " alt="" coords="2643,87,2742,114"/>
+<area shape="rect" id="node139" href="$settingsdialog_8h.xhtml" title="Dialog to manage analysis settings. " alt="" coords="4084,87,4207,114"/>
+<area shape="rect" id="node140" href="$validator_8h.xhtml" title="Collection of validators. " alt="" coords="16424,87,16512,114"/>
+<area shape="rect" id="node21" href="$model_8h.xhtml" title="Wrapper Model classes for the MEF data. " alt="" coords="1490,177,1564,203"/>
+<area shape="rect" id="node34" href="$zoomableview_8h.xhtml" title="Provides a GraphicsView with zoom in/out and other convenience features. " alt="" coords="6068,177,6191,203"/>
+<area shape="rect" id="node33" href="$command_8h.xhtml" title="Undo&#45;redo helper facilities based on the Qt Undo framework. " alt="" coords="1295,266,1394,293"/>
+</map>

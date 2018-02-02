@@ -1,0 +1,4 @@
+<map id="scram::gui::MainWindow::addInputFiles" name="scram::gui::MainWindow::addInputFiles">
+<area shape="rect" id="node2" href="$classscram_1_1gui_1_1ZoomableView.xhtml#a859d676e6600e263ae4487bc1845385d" title="Automatically adjusts the zoom to fit the view into the current scene. " alt="" coords="228,5,420,47"/>
+<area shape="rect" id="node3" href="$classscram_1_1gui_1_1ZoomableView.xhtml#ace3d3caf7b6043cceaf2dfb176df9c8a" title="Accepts requests to change the zoom to the given level. " alt="" coords="468,5,660,47"/>
+</map>

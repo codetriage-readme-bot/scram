@@ -1,0 +1,5 @@
+<map id="scram::gui::EventDialog::expression" name="scram::gui::EventDialog::expression">
+<area shape="rect" id="node2" href="$classscram_1_1gui_1_1EventDialog.xhtml#a1522bc4b9c9c0ef7d82b3a27d1778108" title="scram::gui::EventDialog\l::booleanConstant" alt="" coords="227,5,401,47"/>
+<area shape="rect" id="node4" href="$classscram_1_1gui_1_1MainWindow.xhtml#a73c95b969d3ad6061b345040f9eed585" title="Specialization to construct basic event out of event editor data. " alt="" coords="227,71,401,112"/>
+<area shape="rect" id="node3" href="$classscram_1_1gui_1_1MainWindow.xhtml#a28a90c0994118320191093128c80a948" title="Specialization to construct house event out of event editor data. " alt="" coords="449,5,624,47"/>
+</map>

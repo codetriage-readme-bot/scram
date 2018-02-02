@@ -1,0 +1,18 @@
+<map id="serialization.h" name="serialization.h">
+<area shape="rect" id="node4" href="$model_8h.xhtml" title="Representation for a model container for risk analysis. " alt="" coords="2728,80,2803,107"/>
+<area shape="rect" id="node7" href="$alignment_8h.xhtml" title="Mission and phase constructs. " alt="" coords="2672,155,2771,181"/>
+<area shape="rect" id="node8" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="2815,386,2902,413"/>
+<area shape="rect" id="node14" href="$instruction_8h.xhtml" title="Model and event tree modifier instructions. " alt="" coords="2669,229,2771,256"/>
+<area shape="rect" id="node15" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="3505,304,3575,331"/>
+<area shape="rect" id="node20" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="2467,386,2570,413"/>
+<area shape="rect" id="node23" href="$ccf__group_8h.xhtml" title="Functional containers for basic events grouped by common cause failure. " alt="" coords="2920,229,3016,256"/>
+<area shape="rect" id="node25" href="$event__tree_8h.xhtml" title="Event Tree facilities. " alt="" coords="3407,155,3510,181"/>
+<area shape="rect" id="node27" href="$extern_8h.xhtml" title="The MEF facilities to call external functions in expressions. " alt="" coords="1561,304,1709,331"/>
+<area shape="rect" id="node39" href="$test__event_8h.xhtml" title="Event tree analysis expressions to test functional and initiating events. " alt="" coords="1862,304,2037,331"/>
+<area shape="rect" id="node41" href="$fault__tree_8h.xhtml" title="Fault Tree and Component containers. " alt="" coords="2921,155,3015,181"/>
+<area shape="rect" id="node43" href="$parameter_8h.xhtml" title="Parameter expressions that act like a shareable variable. " alt="" coords="2467,304,2568,331"/>
+<area shape="rect" id="node44" href="$substitution_8h.xhtml" title="The MEF Substitution constructs. " alt="" coords="3592,229,3701,256"/>
+<area shape="rect" id="node26" href="$variant_8h.xhtml" title="Extra helper functions for std::variant. " alt="" coords="3955,304,4058,331"/>
+<area shape="rect" id="node33" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="513,386,599,413"/>
+<area shape="rect" id="node38" href="$source__info_8h.xhtml" title="Helper facilities to get source file information. " alt="" coords="669,475,800,502"/>
+</map>
